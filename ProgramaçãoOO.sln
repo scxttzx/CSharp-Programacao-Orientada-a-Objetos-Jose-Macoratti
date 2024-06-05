@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5HerancaNew", "5HerancaNew\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6HerancaVitualOverride", "HerancaVitualOverride\6HerancaVitualOverride.csproj", "{8F1AC16E-279A-4F23-A6FC-2A12F4C738CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HerancaSealed", "7HerancaSealed\7HerancaSealed.csproj", "{5111578E-44CA-4C05-91BF-6D2695ABF58F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7HerancaSealed", "7HerancaSealed\7HerancaSealed.csproj", "{5111578E-44CA-4C05-91BF-6D2695ABF58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8HerancaExercicio", "8HerancaExercicio\8HerancaExercicio.csproj", "{E1626A5C-06B4-427B-9FDF-AD6F3A7EB220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8HerancaExercicio", "8HerancaExercicio\8HerancaExercicio.csproj", "{E1626A5C-06B4-427B-9FDF-AD6F3A7EB220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9HerancaTipos", "8HerancaTipos\9HerancaTipos.csproj", "{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E1626A5C-06B4-427B-9FDF-AD6F3A7EB220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1626A5C-06B4-427B-9FDF-AD6F3A7EB220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1626A5C-06B4-427B-9FDF-AD6F3A7EB220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

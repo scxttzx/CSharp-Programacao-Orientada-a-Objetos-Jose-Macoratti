@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7HerancaSealed", "7HerancaS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8HerancaExercicio", "8HerancaExercicio\8HerancaExercicio.csproj", "{E1626A5C-06B4-427B-9FDF-AD6F3A7EB220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9HerancaTipos", "8HerancaTipos\9HerancaTipos.csproj", "{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9HerancaTipos", "8HerancaTipos\9HerancaTipos.csproj", "{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Heranca_UpcastingDowncasting", "10Heranca_UpcastingDowncasting\10Heranca_UpcastingDowncasting.csproj", "{A0AAD60D-5E02-4ECA-B93A-8612345A4104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Heranca_IsAs", "11Heranca_IsAs\11Heranca_IsAs.csproj", "{73D52BDF-C182-4B8D-96DB-0D89B415DCAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD9088B0-6EBC-4DCB-B571-99055C7E24D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AAD60D-5E02-4ECA-B93A-8612345A4104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AAD60D-5E02-4ECA-B93A-8612345A4104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AAD60D-5E02-4ECA-B93A-8612345A4104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AAD60D-5E02-4ECA-B93A-8612345A4104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D52BDF-C182-4B8D-96DB-0D89B415DCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D52BDF-C182-4B8D-96DB-0D89B415DCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D52BDF-C182-4B8D-96DB-0D89B415DCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D52BDF-C182-4B8D-96DB-0D89B415DCAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

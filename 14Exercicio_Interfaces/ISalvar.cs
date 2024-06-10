@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace _14Exercicio_Interfaces;
 
-interface ISalvar
+public interface ISalvar
 {
     void Salvar();
+    void Compactar()
+    {
+        Console.WriteLine("Compactando arquivos...");
+    }
 }

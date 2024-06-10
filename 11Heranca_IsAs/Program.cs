@@ -21,6 +21,7 @@
 // -------OPERADOR "as"----------
 
 Circulo circulo2 = new Circulo();
+Forma forma2 = new Forma();
 Forma forma1 = circulo2;
 
 if (forma1 is Circulo)
